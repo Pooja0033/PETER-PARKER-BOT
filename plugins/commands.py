@@ -51,7 +51,7 @@ async def start(client, message):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEG-spjprSY-hPcJpJPXtmfQ-FaKEh78wAC-AMAAp9EiVed3ajGmwsl5iwE")
+        m=await message.reply_sticker("CAACAgUAAxkBAAI24GOsFOn0rpWX5_sYirVawE2m7WMrAAJ5CgACtsSIV7CS8H_s1XvAHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -94,14 +94,14 @@ async def start(client, message):
             InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/MatRixBotzTG")
+            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/Prv_35")
             ],[      
             InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEG-spjprSY-hPcJpJPXtmfQ-FaKEh78wAC-AMAAp9EiVed3ajGmwsl5iwE")
+        m=await message.reply_sticker("CAACAgUAAxkBAAI24GOsFOn0rpWX5_sYirVawE2m7WMrAAJ5CgACtsSIV7CS8H_s1XvAHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
