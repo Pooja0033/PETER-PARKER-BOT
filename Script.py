@@ -6,7 +6,7 @@ class script(object):
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</a>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href='https://t.me/Prv_35'>Qᴜɪᴄᴋ Fᴀꜱᴛ</a>
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href='https://t.me/PRVOFFCL'>Qᴜɪᴄᴋ Fᴀꜱᴛ</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: v2.0.3 [ Sᴛᴀʙʟᴇ ]"""
 
     SOURCE_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
